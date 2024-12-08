@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "maze_genarator", "maze_genarator\maze_genarator.vcxproj", "{BB75A640-7AD1-427F-8F6B-B97727C518ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB75A640-7AD1-427F-8F6B-B97727C518ED}.Debug|x64.ActiveCfg = Debug|x64
+		{BB75A640-7AD1-427F-8F6B-B97727C518ED}.Debug|x64.Build.0 = Debug|x64
+		{BB75A640-7AD1-427F-8F6B-B97727C518ED}.Debug|x86.ActiveCfg = Debug|Win32
+		{BB75A640-7AD1-427F-8F6B-B97727C518ED}.Debug|x86.Build.0 = Debug|Win32
+		{BB75A640-7AD1-427F-8F6B-B97727C518ED}.Release|x64.ActiveCfg = Release|x64
+		{BB75A640-7AD1-427F-8F6B-B97727C518ED}.Release|x64.Build.0 = Release|x64
+		{BB75A640-7AD1-427F-8F6B-B97727C518ED}.Release|x86.ActiveCfg = Release|Win32
+		{BB75A640-7AD1-427F-8F6B-B97727C518ED}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC6AA735-915D-484E-80E3-6670DFC463EE}
+	EndGlobalSection
+EndGlobal

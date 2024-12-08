@@ -1,0 +1,86 @@
+﻿  main.cpp
+D:\maze\maze_genarator\maze_genarator\main.cpp(142,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\maze\maze_genarator\maze_genarator\main.cpp(142,36): warning C4244:         with
+D:\maze\maze_genarator\maze_genarator\main.cpp(142,36): warning C4244:         [
+D:\maze\maze_genarator\maze_genarator\main.cpp(142,36): warning C4244:             T=float
+D:\maze\maze_genarator\maze_genarator\main.cpp(142,36): warning C4244:         ]
+D:\maze\maze_genarator\maze_genarator\main.cpp(142,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\maze\maze_genarator\maze_genarator\main.cpp(142,33): warning C4244:         with
+D:\maze\maze_genarator\maze_genarator\main.cpp(142,33): warning C4244:         [
+D:\maze\maze_genarator\maze_genarator\main.cpp(142,33): warning C4244:             T=float
+D:\maze\maze_genarator\maze_genarator\main.cpp(142,33): warning C4244:         ]
+D:\maze\maze_genarator\maze_genarator\main.cpp(143,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\maze\maze_genarator\maze_genarator\main.cpp(143,48): warning C4244:         with
+D:\maze\maze_genarator\maze_genarator\main.cpp(143,48): warning C4244:         [
+D:\maze\maze_genarator\maze_genarator\main.cpp(143,48): warning C4244:             T=float
+D:\maze\maze_genarator\maze_genarator\main.cpp(143,48): warning C4244:         ]
+D:\maze\maze_genarator\maze_genarator\main.cpp(143,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\maze\maze_genarator\maze_genarator\main.cpp(143,35): warning C4244:         with
+D:\maze\maze_genarator\maze_genarator\main.cpp(143,35): warning C4244:         [
+D:\maze\maze_genarator\maze_genarator\main.cpp(143,35): warning C4244:             T=float
+D:\maze\maze_genarator\maze_genarator\main.cpp(143,35): warning C4244:         ]
+D:\maze\maze_genarator\maze_genarator\main.cpp(149,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\maze\maze_genarator\maze_genarator\main.cpp(149,48): warning C4244:         with
+D:\maze\maze_genarator\maze_genarator\main.cpp(149,48): warning C4244:         [
+D:\maze\maze_genarator\maze_genarator\main.cpp(149,48): warning C4244:             T=float
+D:\maze\maze_genarator\maze_genarator\main.cpp(149,48): warning C4244:         ]
+D:\maze\maze_genarator\maze_genarator\main.cpp(149,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\maze\maze_genarator\maze_genarator\main.cpp(149,35): warning C4244:         with
+D:\maze\maze_genarator\maze_genarator\main.cpp(149,35): warning C4244:         [
+D:\maze\maze_genarator\maze_genarator\main.cpp(149,35): warning C4244:             T=float
+D:\maze\maze_genarator\maze_genarator\main.cpp(149,35): warning C4244:         ]
+D:\maze\maze_genarator\maze_genarator\main.cpp(150,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\maze\maze_genarator\maze_genarator\main.cpp(150,50): warning C4244:         with
+D:\maze\maze_genarator\maze_genarator\main.cpp(150,50): warning C4244:         [
+D:\maze\maze_genarator\maze_genarator\main.cpp(150,50): warning C4244:             T=float
+D:\maze\maze_genarator\maze_genarator\main.cpp(150,50): warning C4244:         ]
+D:\maze\maze_genarator\maze_genarator\main.cpp(150,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\maze\maze_genarator\maze_genarator\main.cpp(150,35): warning C4244:         with
+D:\maze\maze_genarator\maze_genarator\main.cpp(150,35): warning C4244:         [
+D:\maze\maze_genarator\maze_genarator\main.cpp(150,35): warning C4244:             T=float
+D:\maze\maze_genarator\maze_genarator\main.cpp(150,35): warning C4244:         ]
+D:\maze\maze_genarator\maze_genarator\main.cpp(156,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\maze\maze_genarator\maze_genarator\main.cpp(156,50): warning C4244:         with
+D:\maze\maze_genarator\maze_genarator\main.cpp(156,50): warning C4244:         [
+D:\maze\maze_genarator\maze_genarator\main.cpp(156,50): warning C4244:             T=float
+D:\maze\maze_genarator\maze_genarator\main.cpp(156,50): warning C4244:         ]
+D:\maze\maze_genarator\maze_genarator\main.cpp(156,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\maze\maze_genarator\maze_genarator\main.cpp(156,35): warning C4244:         with
+D:\maze\maze_genarator\maze_genarator\main.cpp(156,35): warning C4244:         [
+D:\maze\maze_genarator\maze_genarator\main.cpp(156,35): warning C4244:             T=float
+D:\maze\maze_genarator\maze_genarator\main.cpp(156,35): warning C4244:         ]
+D:\maze\maze_genarator\maze_genarator\main.cpp(157,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\maze\maze_genarator\maze_genarator\main.cpp(157,38): warning C4244:         with
+D:\maze\maze_genarator\maze_genarator\main.cpp(157,38): warning C4244:         [
+D:\maze\maze_genarator\maze_genarator\main.cpp(157,38): warning C4244:             T=float
+D:\maze\maze_genarator\maze_genarator\main.cpp(157,38): warning C4244:         ]
+D:\maze\maze_genarator\maze_genarator\main.cpp(157,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\maze\maze_genarator\maze_genarator\main.cpp(157,33): warning C4244:         with
+D:\maze\maze_genarator\maze_genarator\main.cpp(157,33): warning C4244:         [
+D:\maze\maze_genarator\maze_genarator\main.cpp(157,33): warning C4244:             T=float
+D:\maze\maze_genarator\maze_genarator\main.cpp(157,33): warning C4244:         ]
+D:\maze\maze_genarator\maze_genarator\main.cpp(163,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\maze\maze_genarator\maze_genarator\main.cpp(163,38): warning C4244:         with
+D:\maze\maze_genarator\maze_genarator\main.cpp(163,38): warning C4244:         [
+D:\maze\maze_genarator\maze_genarator\main.cpp(163,38): warning C4244:             T=float
+D:\maze\maze_genarator\maze_genarator\main.cpp(163,38): warning C4244:         ]
+D:\maze\maze_genarator\maze_genarator\main.cpp(163,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\maze\maze_genarator\maze_genarator\main.cpp(163,33): warning C4244:         with
+D:\maze\maze_genarator\maze_genarator\main.cpp(163,33): warning C4244:         [
+D:\maze\maze_genarator\maze_genarator\main.cpp(163,33): warning C4244:             T=float
+D:\maze\maze_genarator\maze_genarator\main.cpp(163,33): warning C4244:         ]
+D:\maze\maze_genarator\maze_genarator\main.cpp(164,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\maze\maze_genarator\maze_genarator\main.cpp(164,36): warning C4244:         with
+D:\maze\maze_genarator\maze_genarator\main.cpp(164,36): warning C4244:         [
+D:\maze\maze_genarator\maze_genarator\main.cpp(164,36): warning C4244:             T=float
+D:\maze\maze_genarator\maze_genarator\main.cpp(164,36): warning C4244:         ]
+D:\maze\maze_genarator\maze_genarator\main.cpp(164,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\maze\maze_genarator\maze_genarator\main.cpp(164,33): warning C4244:         with
+D:\maze\maze_genarator\maze_genarator\main.cpp(164,33): warning C4244:         [
+D:\maze\maze_genarator\maze_genarator\main.cpp(164,33): warning C4244:             T=float
+D:\maze\maze_genarator\maze_genarator\main.cpp(164,33): warning C4244:         ]
+D:\maze\maze_genarator\maze_genarator\main.cpp(175,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\maze\maze_genarator\maze_genarator\main.cpp(175,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\maze\maze_genarator\maze_genarator\main.cpp(184,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\maze\maze_genarator\maze_genarator\main.cpp(184,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  maze_genarator.vcxproj -> D:\maze\maze_genarator\x64\Debug\maze_genarator.exe
