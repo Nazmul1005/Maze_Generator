@@ -346,8 +346,6 @@ void handleInput() {
     // Input debouncing
     if (inputClock.getElapsedTime().asSeconds() < INPUT_DELAY) return;
     
-    int oldX = solver.x;
-    int oldY = solver.y;
     bool moved = false;
     
     if (Keyboard::isKeyPressed(Keyboard::Up)) {
