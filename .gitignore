@@ -1,0 +1,26 @@
+# Compiled executables
+maze_genarator/maze_game
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Visual Studio files
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# Build directories
+bin/
+obj/
