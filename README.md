@@ -1,1 +1,1 @@
-## THis Is A Maze Genarator Game
+## THis Is a Maze Genarator Game
