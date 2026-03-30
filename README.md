@@ -1,2 +1,2 @@
-### THis Is a Maze Genarator Game
+### This Is a Maze Genarator Game
 ## University_Project
